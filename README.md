@@ -1,40 +1,35 @@
 simple cs2 sdk
 
-dependencies:
+## dependencies:
   imgui
   minhook
 
-features:
+## features:
   box
   bhop
 
-hook:
+## hook:
   create_move
-  
   frame_stage_notify
-  
   level_init
-  
   present
-  
   resize_buffers
-  
   wndproc
 
-sdk::
- enums:
+## sdk::
+ ## enums:
   buttons_t
   movetype_t
   flags_t
 
- calsses:
+ ## calsses:
   c_collision_property 
   c_base_player
   c_cmd_qangle
   c_user_cmd_base
   c_user_cmd
 
- interfaces:
+ ## interfaces:
   m_global_vars
   m_game_entity_system
   m_render
@@ -44,5 +39,5 @@ sdk::
   m_schema_system
   m_engine_client
 
-Preview:
-https://i.imgur.com/UcpGisx.jpg
+<p align="center">
+  <img src="https://i.imgur.com/UcpGisx.jpg"/>
