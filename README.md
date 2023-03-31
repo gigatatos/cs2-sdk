@@ -1,8 +1,9 @@
 simple cs2 sdk
 
 ## dependencies:
-  -imgui
-  -minhook
+
+  - imgui
+  - minhook
 
 ## features:
   -box
