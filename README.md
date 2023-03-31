@@ -10,10 +10,15 @@ features:
 
 hook:
   create_move
+  
   frame_stage_notify
+  
   level_init
+  
   present
+  
   resize_buffers
+  
   wndproc
 
 sdk::
