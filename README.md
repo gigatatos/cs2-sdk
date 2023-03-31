@@ -1,8 +1,5 @@
 simple cs2 sdk
 
-- This will change your device number and ID.
-- Disable your antivirus before use.(spoofer using windows exploits)
-- **(IMPORTANT) You must Run as administrator : Spoofer.exe**
 ## dependencies:
 
   - imgui
