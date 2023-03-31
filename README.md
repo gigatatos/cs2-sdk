@@ -1,15 +1,21 @@
+<h1 align="center">
 simple cs2 sdk
+</h1>
 
-## dependencies:
+<p align="center">
+  work in progress
+</p>
+
+## dependencies
 
   - imgui
   - minhook
 
-## features:
+## features
   - box
   - bhop
 
-## hook:
+## hook
   - create_move
   - frame_stage_notify
   - level_init
@@ -17,7 +23,7 @@ simple cs2 sdk
   - resize_buffers
   - wndproc
 
-## sdk::
+## sdk
  ## enums:
   - buttons_t
   - movetype_t
@@ -39,6 +45,7 @@ simple cs2 sdk
   - m_client
   - m_schema_system
   - m_engine_client
+
 
 <p align="center">
   <img src="https://i.imgur.com/UcpGisx.jpg"/>
