@@ -49,3 +49,6 @@ simple cs2 sdk
 
 <p align="center">
   <img src="https://i.imgur.com/UcpGisx.jpg"/>
+
+unstapble @SHIDWORD
+
