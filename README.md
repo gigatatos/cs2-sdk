@@ -2,10 +2,6 @@
 simple cs2 sdk
 </h1>
 
-<p align="center">
-  work in progress
-</p>
-
 ## dependencies
 
   - imgui
@@ -49,6 +45,4 @@ simple cs2 sdk
 
 <p align="center">
   <img src="https://i.imgur.com/UcpGisx.jpg"/>
-
-unstapble @SHIDWORD
 
